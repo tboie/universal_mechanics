@@ -38,3 +38,6 @@ Interaction of matter near the edges pulling everything outwards?
 
 Most consistent mathematical pattern?
 
+### Consciousness
+
+Arrangement of light?
