@@ -41,3 +41,9 @@ Most consistent mathematical pattern?
 ### Consciousness
 
 Arrangement of light?
+
+### Double Slit Experiment
+
+Try this experiment in a perfect environment with absolute precision?
+
+What is the question?
