@@ -24,6 +24,10 @@ Matter that doesn't reflect/emit light towards the observer?
 
 The eclipsing of galaxies?
 
+### Gravitational Waves
+
+Pulses of light?
+
 ### Spiral Galaxies
 
 Is shape change or spin rotation faster?
@@ -32,7 +36,7 @@ Is shape change or spin rotation faster?
 
 Empty space is empty and has no energy?
 
-Interaction of matter near the edges pulling everything outwards?
+Behavior of matter beyond view?
 
 ### Inverse Square
 
@@ -47,3 +51,15 @@ Arrangement of light?
 Try this experiment in a perfect environment with absolute precision?
 
 What is the question?
+
+### Time
+
+Absolute property of the system?
+
+### Probabilities
+
+Unknown knowledge?
+
+### Experimental Observation Interference
+
+Use virtual experiments?
