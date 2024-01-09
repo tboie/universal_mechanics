@@ -4,6 +4,8 @@
 
 *Warning* : Information may be wrong?
 
+<br/>
+
 ### Light
 
 Light particles are not empty space and have mass?
@@ -54,7 +56,7 @@ What is the question?
 
 ### Time
 
-Absolute property of the system?
+Property of the system?
 
 ### Probabilities
 
