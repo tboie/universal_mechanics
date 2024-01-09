@@ -18,6 +18,8 @@ Thought experiment: If the sun didn't emit anything and the planets had no atmos
 
 ### Dark Matter
 
+Light oustide technological detectable range?
+
 Light from matter that is intercepted while travelling towards the observer?
 
 Matter that doesn't reflect/emit light towards the observer?
