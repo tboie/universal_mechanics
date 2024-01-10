@@ -6,6 +6,10 @@
 
 <br/>
 
+### Space
+
+Locations with information create space?
+
 ### Light
 
 Light particles are not empty space and have mass?
