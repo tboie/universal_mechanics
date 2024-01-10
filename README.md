@@ -24,6 +24,10 @@ Light from matter that is intercepted while travelling towards the observer?
 
 Matter that doesn't reflect/emit light towards the observer?
 
+### Black Holes
+
+Dark matter?
+
 ### Gravitational Lensing
 
 The eclipsing of galaxies?
