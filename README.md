@@ -18,11 +18,11 @@ Thought experiment: If the sun didn't emit anything and the planets had no atmos
 
 ### Dark Matter
 
-Light from matter having properties not detectable with current technology?
+Light and moving particles from matter having properties not detectable with current technology?
 
-Light from matter that is intercepted while travelling towards the observer?
+Light and moving particles from matter that is intercepted while travelling towards the observer?
 
-Matter that doesn't reflect/emit light towards the observer?
+Matter that doesn't reflect/emit light and moving particles towards the observer?
 
 ### Black Holes
 
