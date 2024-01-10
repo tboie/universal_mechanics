@@ -18,7 +18,7 @@ Thought experiment: If the sun didn't emit anything and the planets had no atmos
 
 ### Dark Matter
 
-Light properties not detectable with current technology?
+Light from matter having properties not detectable with current technology?
 
 Light from matter that is intercepted while travelling towards the observer?
 
