@@ -68,6 +68,6 @@ Property of the system?
 
 Unknown knowledge?
 
-### Experimental Observation Interference
+### Experimental Problems of Reality
 
 Use virtual experiments?
