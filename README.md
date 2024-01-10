@@ -26,7 +26,7 @@ Matter that doesn't reflect/emit light towards the observer?
 
 ### Black Holes
 
-Dark matter?
+See dark matter and gravity sections?
 
 ### Gravitational Lensing
 
