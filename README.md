@@ -6,27 +6,27 @@
 
 <br/>
 
+### Matter
+
+Locations with information?
+
 ### Space
 
 Locations with information create space?
 
-### Light
-
-Light particles are not empty space and have mass?
-
 ### Gravity
 
-If empty space doesn't curve because it's empty, try visualizing gradients of mass interacting with each other?
+If locations without information don't curve, try visualizing gradients of mass interacting with each other?
 
 Thought experiment: If the sun didn't emit anything and the planets had no atmosphere, would they still revolve?
 
 ### Dark Matter
 
-Light and moving particles from matter having properties not detectable with current technology?
+Light/moving particles from matter having properties not detectable with current technology?
 
-Light and moving particles from matter that is intercepted while travelling towards the observer?
+Light/moving particles from matter that is intercepted while travelling towards the observer?
 
-Matter that doesn't reflect/emit light and moving particles towards the observer?
+Matter that doesn't reflect/emit light/moving particles towards the observer?
 
 ### Black Holes
 
@@ -46,9 +46,7 @@ Is shape change or spin rotation faster?
 
 ### Dark Energy
 
-Empty space is empty and has no energy?
-
-Behavior of matter beyond view?
+Unknown matter?
 
 ### Inverse Square
 
