@@ -30,7 +30,13 @@ Matter that doesn't reflect/emit light/moving particles towards the observer?
 
 ### Black Holes
 
+Forms from more streaming light intersecting towards a location than moving away from it?
+
 See dark matter and gravity sections?
+
+### Big Intersection (Big Bang alternative)
+
+Intersection of streaming light from other locations on the infinite plane?
 
 ### Gravitational Lensing
 
