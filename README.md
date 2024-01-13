@@ -14,6 +14,10 @@ Locations with information?
 
 Locations with information create space?
 
+### Vacuum
+
+Nothing
+
 ### Gravity
 
 If locations without information don't curve, try visualizing gradients of mass interacting with each other?
