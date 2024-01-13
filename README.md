@@ -10,13 +10,15 @@
 
 Locations with information?
 
+[Concepts?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
+
 ### Space
 
 Locations with information create space?
 
 ### Vacuum
 
-Nothing
+Nothing?
 
 ### Gravity
 
@@ -64,7 +66,7 @@ Most consistent mathematical pattern?
 
 ### Consciousness
 
-Arrangement of light?
+Arrangement of light/information?
 
 ### Double Slit Experiment
 
