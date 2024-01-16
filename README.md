@@ -50,7 +50,7 @@ The eclipsing of galaxies?
 
 ### Gravitational Waves
 
-Pulses of light?
+Galactic sized pulses of light?
 
 ### Spiral Galaxies
 
