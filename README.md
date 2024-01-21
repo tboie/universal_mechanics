@@ -20,6 +20,10 @@ Locations with information create space?
 
 Nothing?  No curvature because no information how?
 
+### Time
+
+Property of the system?
+
 ### Gravity
 
 If empty space doesn't curve, try visualizing gradients of mass interacting with each other?
@@ -34,6 +38,10 @@ Light/moving particles from matter that is intercepted while travelling towards 
 
 Matter that doesn't reflect/emit light/moving particles towards the observer?
 
+### Dark Energy
+
+Unknown matter?
+
 ### Black Holes
 
 Forms from more streaming light intersecting towards a location than moving away from it?
@@ -42,7 +50,15 @@ See dark matter and gravity sections?
 
 ### Big Intersection (Big Bang alternative)
 
-Intersection of streaming light from other locations on the infinite plane?
+Intersection of light from other locations on the infinite plane?
+
+### Cosmological Principle
+
+Multitropic?
+
+### Cosmic Expansion
+
+Lol 1 location measurement?
 
 ### Gravitational Lensing
 
@@ -56,27 +72,15 @@ Galactic sized pulses of light?
 
 Does form change more quickly than rotation?
 
-### Dark Energy
-
-Unknown matter?
-
 ### Inverse Square
 
 Most consistent mathematical pattern?
-
-### Consciousness
-
-Arrangement of light/information?
 
 ### Double Slit Experiment
 
 Try this experiment in a perfect environment with absolute precision?
 
 What is the question?
-
-### Time
-
-Property of the system?
 
 ### Probabilities
 
@@ -85,3 +89,7 @@ Unknown knowledge?
 ### Experimental Problems of Reality
 
 Use virtual experiments?
+
+### Consciousness
+
+Arrangement of light/information?
