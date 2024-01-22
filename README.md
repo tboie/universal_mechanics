@@ -54,7 +54,7 @@ Intersection of light from other locations on the infinite plane?
 
 ### Cosmological Principle
 
-Multitropic?
+Multitropic? (isotropic & anisotropic)
 
 ### Cosmic Expansion
 
@@ -71,6 +71,10 @@ Galactic sized pulses of light?
 ### Spiral Galaxies
 
 Does form change more quickly than rotation?
+
+### Z-Axis
+
+Emergent?  Scale is almost unimaginable?
 
 ### Inverse Square
 
