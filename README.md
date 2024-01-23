@@ -22,7 +22,7 @@ Nothing?
 
 ### Time
 
-Property of the system?
+System property?
 
 ### Gravity
 
