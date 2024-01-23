@@ -76,7 +76,9 @@ Does form change more quickly than rotation?
 
 ### Z-Axis
 
-Emergent?  Scale is almost unimaginable?
+Emergent?
+
+Two dimensions at smallest scale almost unimaginable?
 
 ### Inverse Square
 
