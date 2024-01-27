@@ -44,7 +44,7 @@ Unknown matter?
 
 ### Black Holes
 
-Forms from more streaming light intersecting towards a location than moving away from it?
+More light intersecting towards a location than emitted from it?
 
 See dark matter and gravity sections?
 
