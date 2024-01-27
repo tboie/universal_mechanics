@@ -68,7 +68,7 @@ Eclipsing of galaxies?
 
 ### Gravitational Waves
 
-Galactic sized pulses of light?
+Light pulses of galactic scale?
 
 ### Spiral Galaxies
 
