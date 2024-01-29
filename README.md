@@ -80,10 +80,6 @@ Emergent?
 
 Two dimensions at smallest scale almost unimaginable?
 
-### Inverse Square
-
-Most consistent mathematical pattern?
-
 ### Double Slit Experiment
 
 Try this experiment in a perfect environment with absolute precision?
