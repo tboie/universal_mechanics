@@ -26,6 +26,8 @@ System property?
 
 ### Gravity
 
+Empty space doesn't curve because it doesn't know how?
+
 Try visualizing gradients of mass interacting with each other?
 
 Thought experiment: If the sun didn't emit anything and the planets had no atmosphere, would they still revolve?
