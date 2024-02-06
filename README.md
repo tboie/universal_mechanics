@@ -54,6 +54,10 @@ See dark matter and gravity sections?
 
 Intersection of light from other locations on the infinite plane?
 
+### Cosmological Model
+
+Static universe?
+
 ### Cosmological Principle
 
 Multitropic? (isotropic & anisotropic)
