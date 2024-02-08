@@ -1,6 +1,6 @@
 # Universal Simplified Mechanics
 
-## A simplified interpretation of how the universe works?
+## Simplified model/predictions of the universe?
 
 *Warning* : Information may be wrong?
 
@@ -50,17 +50,13 @@ More light intersecting towards a location than emitted from it?
 
 See dark matter and gravity sections?
 
-### Big Intersection (Big Bang alternative)
+### Big Intersection (Local Big Bang alternative)
 
 Intersection of light from other locations on the infinite plane?
 
 ### Cosmological Model
 
-Static universe?
-
-### Cosmological Principle
-
-Multitropic? (isotropic & anisotropic)
+Temporally and spatially infinite?
 
 ### Cosmic Expansion
 
@@ -78,7 +74,7 @@ Light pulses of galactic scale?
 
 ### Spiral Galaxies
 
-Does form change more quickly than rotation?
+Form changes more quickly than rotation?
 
 ### Z-Axis
 
