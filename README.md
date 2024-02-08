@@ -50,6 +50,10 @@ More light intersecting towards a location than emitted from it?
 
 See dark matter and gravity sections?
 
+### Spiral Galaxies
+
+Form changes more quickly than rotation?
+
 ### Big Intersection (Local Big Bang alternative)
 
 Intersection of light from other locations on the infinite plane?
@@ -64,23 +68,23 @@ https://en.wikipedia.org/wiki/Expansion_of_the_universe
 
 Lol 1 location measurement?
 
-### Gravitational Lensing
+### Hubble's Law
 
-Eclipsing of galaxies?
+Modification of light pattern from collisions?
 
 ### Gravitational Waves
 
 Light pulses of galactic scale?
-
-### Spiral Galaxies
-
-Form changes more quickly than rotation?
 
 ### Z-Axis
 
 Emergent?
 
 Two dimensions at smallest scale almost unimaginable?
+
+### Gravitational Lensing
+
+Eclipsing of galaxies?
 
 ### Double Slit Experiment
 
