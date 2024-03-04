@@ -28,9 +28,9 @@ System property?
 
 Empty space doesn't curve because it doesn't know how?
 
-Try visualizing gradients of mass interacting with each other?
+Interaction of light from groups of mass?
 
-Thought experiment: If the sun didn't emit anything and the planets had no atmosphere, would they still revolve?
+Thought experiment: If the sun or planets didn't emit anything, would they still revolve?
 
 ### Dark Matter
 
