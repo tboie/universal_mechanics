@@ -18,6 +18,8 @@ Locations with information create space?
 
 ### Empty space
 
+Does cell information resonate towards infinity?
+
 Nothing?
 
 ### Time
@@ -81,6 +83,10 @@ Light pulses of galactic scale?
 Emergent at scale from 2D structures?
 
 [Is cell information vertically assembled?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
+
+### Nothing to something
+
+Was there a sequence to the expansion of locational information?
 
 ### Gravitational Lensing
 
