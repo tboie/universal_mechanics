@@ -16,7 +16,7 @@ Locations with information?
 
 Locations with information create space?
 
-### Empty space
+### Empty Space
 
 Does cell information resonate towards infinity?
 
@@ -84,7 +84,7 @@ Emergent at scale from 2D structures?
 
 [Is cell information vertically assembled?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
-### Absolute beginning
+### Absolute Beginning
 
 Was there a sequence to the expansion of locational information?
 
