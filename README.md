@@ -88,6 +88,10 @@ Emergent at scale from 2D structures?
 
 Was there a sequence to the expansion of locational information?
 
+### Time Dilation
+
+Structural interference from matter?
+
 ### Gravitational Lensing
 
 Eclipsing of galaxies?
