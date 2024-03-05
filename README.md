@@ -78,9 +78,9 @@ Light pulses of galactic scale?
 
 ### Z-Axis
 
-Emergent?
+Emergent at scale from 2D structures?
 
-Two dimensions at smallest scale almost unimaginable?
+[Is cell information vertically assembled?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
 ### Gravitational Lensing
 
