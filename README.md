@@ -28,7 +28,7 @@ System property?
 
 ### Gravity
 
-Empty space doesn't curve because it doesn't know how?
+Does empty space know how to curve?
 
 Interaction of light from groups of mass?
 
