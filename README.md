@@ -102,6 +102,10 @@ Try this experiment in a perfect environment with absolute precision?
 
 What is the question?
 
+## Entanglement
+
+Experimental inadequacy?
+
 ### Probabilities
 
 Unknown knowledge?
