@@ -72,6 +72,8 @@ Lol 1 location measurement?
 
 ### Hubble's Law
 
+Should there be red-shift correlations for measurements directed North/South/East/West?
+
 Modification of light pattern from collisions?
 
 ### Gravitational Waves
