@@ -48,7 +48,7 @@ Unknown matter?
 
 ### Black Holes
 
-More light intersecting towards a location than emitted from it?
+More light intersecting towards/around a location than emitted from it?
 
 See dark matter and gravity sections?
 
