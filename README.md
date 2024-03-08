@@ -88,6 +88,8 @@ Light pulses of galactic scale?
 
 Emergent at scale from 2D structures?
 
+Example: rotational direction of light?
+
 [Is cell information vertically assembled?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
 ### Absolute Beginning
@@ -108,7 +110,7 @@ Try this experiment in a perfect environment with absolute precision?
 
 What is the question?
 
-## Entanglement
+### Entanglement
 
 Experimental inadequacy?
 
