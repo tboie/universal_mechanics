@@ -46,23 +46,27 @@ Light/moving particles from matter that is intercepted while travelling towards 
 
 Matter that doesn't reflect/emit light/moving particles towards the observer?
 
+See [Locality Diagrams?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
+
 ### Dark Energy
 
 Unknown matter?
 
+See [Something to Nothing?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#nothing-to-something-sequence-will-it-scale)
+
 ### Black Holes
 
-More light intersecting towards/around a location than emitted from it?
-
-See dark matter and gravity sections?
+More light/informtion intersecting towards/around a location than emitted from it?
 
 ### Spiral Galaxies
 
 Form changes more quickly than rotation?
 
-### Big Intersection (Local Big Bang alternative)
+### Big Intersection
 
 Intersection of light from other locations on the infinite plane?
+
+See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
 
 ### Cosmological Model
 
@@ -72,13 +76,11 @@ Temporally and spatially infinite?
 
 https://en.wikipedia.org/wiki/Expansion_of_the_universe
 
-Lol 1 location measurement?
+Galaxies are growing, not more distant?
 
 ### Hubble's Law
 
-Should there be red-shift correlations for measurements directed North/South/East/West?
-
-Modification of light pattern from collisions?
+See cosmic expansion?
 
 ### Gravitational Waves
 
