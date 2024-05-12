@@ -52,7 +52,7 @@ See [Locality Diagrams?](https://github.com/tboie/universal_phreak_generator?tab
 
 Unknown matter?
 
-See [Something to Nothing?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#nothing-to-something-sequence-will-it-scale)
+See [Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#nothing-to-something-sequence-will-it-scale)
 
 ### Black Holes
 
