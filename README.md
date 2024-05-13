@@ -84,8 +84,6 @@ See [Cosmic Expansion?](https://github.com/tboie/universal_mechanics?tab=readme-
 
 ### Cosmic Microwave Background
 
-Does [Dark Energy](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#dark-energy) create a black-body correlating with data?
-
 Most common light pattern emitted from a rotating form?
 
 ### Gravitational Waves
