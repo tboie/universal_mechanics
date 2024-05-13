@@ -30,7 +30,7 @@ System property?
 
 ### Light Particle
 
-Most common moving particle
+Most common linear moving particle
 
 ### Gravity
 
@@ -81,6 +81,12 @@ Time dependent inwards and outwards?
 Galaxies are growing more than distance change?
 
 See [Cosmic Expansion?](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#cosmic-expansion)
+
+### Cosmic Microwave Background
+
+Does [Dark Energy](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#dark-energy) create a black-body correlating with data?
+
+Most common light pattern emitted from a rotating form?
 
 ### Gravitational Waves
 
