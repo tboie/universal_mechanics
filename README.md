@@ -22,9 +22,7 @@ Locations with information create space?
 
 ### Empty Space
 
-Does cell information resonate towards infinity?
-
-Nothing?
+Locations with no information?
 
 ### Time
 
@@ -34,7 +32,7 @@ System property?
 
 Does empty space know how to curve?
 
-Interaction of light from groups of mass?
+Interaction of moving particles from groups of mass?
 
 Thought experiment: If the sun or planets didn't emit anything, would they still revolve?
 
@@ -46,27 +44,23 @@ Light/moving particles from matter that is intercepted while travelling towards 
 
 Matter that doesn't reflect/emit light/moving particles towards the observer?
 
-See [Locality Diagrams?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
+[Locality Diagrams?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
 ### Dark Energy
 
-Unknown matter?
-
-See [Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#nothing-to-something-sequence-will-it-scale)
+See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
 
 ### Black Holes
 
-More light/informtion intersecting towards/around a location than emitted from it?
+More information towards/around a location than emitted from it?
 
 ### Spiral Galaxies
 
 Form changes more quickly than rotation?
 
-### Big Intersection
+### Rotating Cell Perimeter Reduction (Big Bang Alternative)
 
-Intersection of light from other locations on the infinite plane?
-
-See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
+See [Dark Energy?](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#dark-energy)
 
 ### Cosmological Model
 
@@ -74,13 +68,15 @@ Temporally and spatially infinite?
 
 ### Cosmic Expansion
 
-https://en.wikipedia.org/wiki/Expansion_of_the_universe
+Result of [Dark Energy?](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#dark-energy)
 
-Galaxies are growing, not more distant?
+Time dependent inwards and outwards?
 
 ### Hubble's Law
 
-See cosmic expansion?
+Galaxies are growing more than distance change?
+
+See [Cosmic Expansion?](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#cosmic-expansion)
 
 ### Gravitational Waves
 
@@ -96,7 +92,7 @@ Example: rotational direction of light?
 
 ### Absolute Beginning
 
-Was there a sequence to the expansion of locational information?
+See [Dark Energy?](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#dark-energy)
 
 ### Time Dilation
 
