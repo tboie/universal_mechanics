@@ -28,6 +28,10 @@ Locations with no information?
 
 System property?
 
+### Light Particle
+
+Most common moving particle
+
 ### Gravity
 
 Does empty space know how to curve?
@@ -97,6 +101,10 @@ See [Dark Energy?](https://github.com/tboie/universal_mechanics?tab=readme-ov-fi
 ### Time Dilation
 
 Structural interference from matter?
+
+### Photons and Neutrinos
+
+Arrangements of light particles
 
 ### Gravitational Lensing
 
