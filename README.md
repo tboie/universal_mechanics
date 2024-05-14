@@ -1,6 +1,6 @@
 # Universal Simplified Mechanics
 
-## Simplified model/predictions of the universe?
+## Simplified model/ideas/model of the universe?
 
 *Warning* : Information may be wrong?
 
@@ -114,7 +114,7 @@ Structural interference from matter?
 
 ### Photons and Neutrinos
 
-Arrangements of light particles
+Arrangements of light particles?
 
 ### Gravitational Lensing
 
