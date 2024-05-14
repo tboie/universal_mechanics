@@ -90,6 +90,12 @@ Average smoothing point of light from universe mass density?
 
 Light pulses of galactic scale?
 
+### Smallest Resolution Evidence
+
+Smallest layout the largest and most common pattern of objects can be represented?
+
+3x3?
+
 ### Z-Axis
 
 Emergent at scale from 2D structures?
