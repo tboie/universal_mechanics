@@ -92,7 +92,7 @@ Light pulses of galactic scale?
 
 ### Smallest Resolution Evidence
 
-Smallest layout the largest and most common pattern of objects can be represented?
+Smallest layout possible to model the largest and most common pattern of objects
 
 3x3?
 
