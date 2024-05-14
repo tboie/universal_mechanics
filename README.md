@@ -30,7 +30,7 @@ System property?
 
 ### Light Particle
 
-Most common linear moving particle
+Most common linear moving particle?
 
 ### Gravity
 
