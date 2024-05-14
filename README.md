@@ -64,7 +64,7 @@ Form changes more quickly than rotation?
 
 ### Rotating Cell Perimeter Reduction (Big Bang Alternative)
 
-See [Dark Energy?](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#dark-energy)
+See [Dark Energy?](#dark-energy)
 
 ### Cosmological Model
 
@@ -72,7 +72,7 @@ Temporally and spatially infinite?
 
 ### Cosmic Expansion
 
-Result of [Dark Energy?](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#dark-energy)
+Result of [Dark Energy?](#dark-energy)
 
 Time dependent inwards and outwards?
 
@@ -80,7 +80,7 @@ Time dependent inwards and outwards?
 
 Galaxies are growing more than distance change?
 
-See [Cosmic Expansion?](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#cosmic-expansion)
+See [Cosmic Expansion?](#cosmic-expansion)
 
 ### Cosmic Microwave Background
 
@@ -106,7 +106,7 @@ Example: rotational direction of light?
 
 ### Absolute Beginning
 
-See [Dark Energy?](https://github.com/tboie/universal_mechanics?tab=readme-ov-file#dark-energy)
+See [Dark Energy?](#dark-energy)
 
 ### Time Dilation
 
