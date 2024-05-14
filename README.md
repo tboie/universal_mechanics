@@ -84,7 +84,7 @@ See [Cosmic Expansion?](https://github.com/tboie/universal_mechanics?tab=readme-
 
 ### Cosmic Microwave Background
 
-Average smoothing point of light in universe by density
+Average smoothing point of light from universe mass density?
 
 ### Gravitational Waves
 
