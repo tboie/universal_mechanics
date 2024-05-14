@@ -84,7 +84,7 @@ See [Cosmic Expansion?](https://github.com/tboie/universal_mechanics?tab=readme-
 
 ### Cosmic Microwave Background
 
-Most common light pattern emitted from a rotating form?
+Average smoothing point of light in universe by density
 
 ### Gravitational Waves
 
