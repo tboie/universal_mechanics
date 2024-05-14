@@ -74,11 +74,11 @@ Temporally and spatially infinite?
 
 Result of [Dark Energy?](#dark-energy)
 
-Time dependent inwards and outwards?
+Time dependent growth inwards and outwards?
 
 ### Hubble's Law
 
-Galaxies are growing more than distance change?
+Increase of universe mass density more than galactic distance?
 
 See [Cosmic Expansion?](#cosmic-expansion)
 
