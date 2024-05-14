@@ -1,6 +1,6 @@
 # Universal Simplified Mechanics
 
-## Simplified model/ideas/model of the universe?
+## Simplified ideas/predictions/model of the universe?
 
 *Warning* : Information may be wrong?
 
