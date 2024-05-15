@@ -42,12 +42,6 @@ Thought experiment: If the sun or planets didn't emit anything, would they still
 
 ### Dark Matter
 
-Light/moving particles from matter having properties not detectable with current technology?
-
-Light/moving particles from matter that is intercepted while travelling towards the observer?
-
-Matter that doesn't reflect/emit light/moving particles towards the observer?
-
 [Locality Diagrams?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
 ### Dark Energy
