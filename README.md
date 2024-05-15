@@ -6,7 +6,7 @@
 
 <br/>
 
-## Information
+### Information
 
 Geometry?
 
@@ -56,7 +56,7 @@ More information towards/around a location than emitted from it?
 
 Form changes more quickly than rotation?
 
-### Rotating Cell Perimeter Reduction (Big Bang Alternative)
+### Rotating Cell Boundary Reduction (Big Bang Alternative)
 
 See [Dark Energy?](#dark-energy)
 
@@ -68,11 +68,11 @@ Temporally and spatially infinite?
 
 Result of [Dark Energy?](#dark-energy)
 
-Time dependent growth inwards and outwards?
+Possible inwards and outwards growth depending on layer size and time?
 
 ### Hubble's Law
 
-Increase of universe mass density more than galactic distance?
+Change of universe mass density more than galactic distance?
 
 See [Cosmic Expansion?](#cosmic-expansion)
 
@@ -86,7 +86,7 @@ Light pulses of galactic scale?
 
 ### Smallest Resolution Evidence
 
-Smallest layout possible to model the largest and most common pattern of objects
+Smallest layout possible to model the largest and most common pattern of objects?
 
 3x3?
 
