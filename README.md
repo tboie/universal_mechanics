@@ -10,19 +10,15 @@
 
 Geometry?
 
+### Space
+
+Locations?
+
 ### Matter
 
 Locations with information?
 
 [Concepts?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
-
-### Space
-
-Locations with information create space?
-
-### Empty Space
-
-Locations with no information?
 
 ### Time
 
