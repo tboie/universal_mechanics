@@ -102,10 +102,6 @@ Structural interference from matter?
 
 Arrangements of light particles?
 
-### Gravitational Lensing
-
-Eclipsing of galaxies?
-
 ### Double Slit Experiment
 
 Try this experiment in a perfect environment with absolute precision?
