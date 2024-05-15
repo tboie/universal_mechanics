@@ -28,14 +28,6 @@ System property?
 
 Most common linear moving particle?
 
-### Gravity
-
-Interaction of moving particles from groups of mass?
-
-Thought experiment: If the sun or planets didn't emit anything, would they still revolve?
-
-Does empty space know how to curve?
-
 ### Dark Matter
 
 [Locality Diagrams?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
@@ -43,14 +35,6 @@ Does empty space know how to curve?
 ### Dark Energy
 
 See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
-
-### Black Holes
-
-More information towards/around a location than emitted from it?
-
-### Spiral Galaxies
-
-Form changes more quickly than rotation?
 
 ### Rotating Cell Boundary Reduction (Big Bang Alternative)
 
@@ -76,9 +60,13 @@ See [Cosmic Expansion?](#cosmic-expansion)
 
 Average smoothing of light from universe mass density?
 
-### Gravitational Waves
+### Gravity
 
-Light pulses of galactic scale?
+Interaction of moving particles from groups of mass?
+
+Thought experiment: If the sun or planets didn't emit anything, would they still revolve?
+
+Does empty space know how to curve?
 
 ### Smallest Resolution Evidence
 
@@ -94,13 +82,21 @@ Projection of locality information from spherical mapping of plane?
 
 See [Dark Energy?](#dark-energy)
 
-### Time Dilation
+### Black Holes
 
-Structural interference from matter?
+More information towards/around a location than emitted from it?
+
+### Spiral Galaxies
+
+Form changes more quickly than rotation?
 
 ### Photons and Neutrinos
 
-Arrangements of light particles?
+Arrangements of [Light Particles?](#light-particle)?
+
+### Gravitational Waves
+
+Light pulses of galactic scale?
 
 ### Double Slit Experiment
 
@@ -115,6 +111,10 @@ Experimental inadequacy?
 ### Probabilities
 
 Unknown knowledge?
+
+### Time Dilation
+
+Structural interference from matter?
 
 ### Experimental Problems of Reality
 
