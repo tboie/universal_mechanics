@@ -30,11 +30,11 @@ Most common linear moving particle?
 
 ### Gravity
 
-Does empty space know how to curve?
-
 Interaction of moving particles from groups of mass?
 
 Thought experiment: If the sun or planets didn't emit anything, would they still revolve?
+
+Does empty space know how to curve?
 
 ### Dark Matter
 
