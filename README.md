@@ -86,13 +86,9 @@ Smallest layout possible to model the largest and most common pattern of objects
 
 3x3?
 
-### Z-Axis
+### 3 Dimensional Experience
 
-Emergent at scale from 2D structures?
-
-Example: rotational direction of light?
-
-[Is cell information vertically assembled?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
+Projection of locality information from spherical mapping of plane?
 
 ### Absolute Beginning
 
