@@ -58,7 +58,7 @@ See [Cosmic Expansion?](#cosmic-expansion)
 
 ### Cosmic Microwave Background
 
-Average smoothing of light from universe mass density?
+Average smoothing of light from universe mass density changes through time?
 
 ### Gravity
 
