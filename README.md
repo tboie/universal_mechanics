@@ -76,7 +76,7 @@ Smallest layout possible to model the largest and most common pattern of objects
 
 ### 3 Dimensional Experience
 
-Projection of locality information from spherical mapping of plane?
+[Locality diagram layers?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
 ### Absolute Beginning
 
