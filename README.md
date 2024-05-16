@@ -92,7 +92,7 @@ Form changes more quickly than rotation?
 
 ### Photons and Neutrinos
 
-Arrangements of [Light Particles?](#light-particle)?
+Arrangements of [Light Particles?](#light-particle)
 
 ### Gravitational Waves
 
