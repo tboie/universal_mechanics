@@ -36,7 +36,7 @@ Most common linear moving particle?
 
 See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
 
-### Rotating Cell Boundary Reduction (Big Bang Alternative)
+### Scaling Boundary (Big Bang Alternative)
 
 See [Dark Energy?](#dark-energy)
 
