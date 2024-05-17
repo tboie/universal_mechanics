@@ -12,7 +12,7 @@ Geometry?
 
 ### Matter
 
-Locations with information?
+Locations with [Information?](#information)
 
 [Concepts?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
