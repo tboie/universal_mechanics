@@ -10,15 +10,15 @@
 
 Geometry?
 
-### Space
-
-Locations?
-
 ### Matter
 
 Locations with information?
 
 [Concepts?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
+
+### Space
+
+[Matter?](#matter)
 
 ### Time
 
