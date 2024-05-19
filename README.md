@@ -60,7 +60,9 @@ See [Cosmic Expansion?](#cosmic-expansion)
 
 ### Cosmic Microwave Background
 
-Average smoothing of light from universe mass density changes through time?
+Light from black holes of a black hole?
+
+[Axis of Evil](https://en.wikipedia.org/wiki/Axis_of_evil_(cosmology)) related to [Locality Diagram Structure?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
 ### Gravity
 
