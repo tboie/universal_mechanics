@@ -127,3 +127,7 @@ Use virtual experiments?
 ### Consciousness
 
 Arrangement of light/information?
+
+### Aliens
+
+Cataclysmic events more probable?
