@@ -130,4 +130,4 @@ Arrangement of light/information?
 
 ### Aliens
 
-Cataclysmic events more probable?
+Cataclysmic events more likely?
