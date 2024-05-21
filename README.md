@@ -84,7 +84,7 @@ Smallest layout possible to model the largest and most common pattern of objects
 
 Sphere, octahedron, decahedron, etc? Created by [Dark Energy sequence?](#dark-energy)
 
-### Absolute Beginning
+### Absolute Beginning of Multiverse
 
 See [Dark Energy?](#dark-energy)
 
