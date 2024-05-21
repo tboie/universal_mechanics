@@ -81,6 +81,7 @@ Smallest layout possible to model the largest and most common pattern of objects
 ### 3 Dimensional Experience
 
 [Geometric encapsulation of Locality Diagram layers?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
+
 Sphere, octahedron, decahedron, etc? Created by [Dark Energy sequence?](#dark-energy)
 
 ### Absolute Beginning
