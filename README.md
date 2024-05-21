@@ -90,6 +90,8 @@ See [Dark Energy?](#dark-energy)
 
 More information towards/around a location than emitted from it?
 
+Supermassive black holes start as supermassive black holes?
+
 ### Spiral Galaxies
 
 Form changes more quickly than rotation?
