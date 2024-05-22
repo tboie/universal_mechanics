@@ -82,15 +82,13 @@ Smallest layout possible to model the largest and most common pattern of objects
 
 [Geometry of Locality Diagram layers?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
-### Absolute Beginning of Multiverse
+### Absolute Beginning
 
 See [Dark Energy?](#dark-energy)
 
 ### Black Holes
 
 More information towards/around a location than emitted from it?
-
-Supermassive black holes start as supermassive black holes?
 
 ### Spiral Galaxies
 
