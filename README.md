@@ -94,6 +94,8 @@ More information towards/around a location than emitted from it?
 
 Form changes more quickly than rotation?
 
+[Kochs Curve?](https://en.wikipedia.org/wiki/Koch_snowflake#/media/File:Zooming_in_a_point_of_Koch_curve_that_is_not_a_vertex.gif)
+
 ### Photons and Neutrinos
 
 Arrangements of [Light Particles?](#light-particle)
