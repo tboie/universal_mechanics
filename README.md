@@ -52,11 +52,9 @@ Temporally and spatially infinite?
 
 Result of [Dark Energy?](#dark-energy)
 
-Possible inwards and outwards growth depending on layer size and time?
+Cell form scales, resolution increases, density changes?
 
 ### Hubble's Law
-
-Change of universe mass density more than galactic distance?
 
 See [Cosmic Expansion?](#cosmic-expansion)
 
