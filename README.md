@@ -40,7 +40,7 @@ Most common linear moving [matter](#matter) pattern?
 
 See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
 
-### Scaling Boundary (Big Bang Alternative)
+### Scaling Cell and Boundary (Big Bang alternative)
 
 See [Dark Energy?](#dark-energy)
 
@@ -53,10 +53,6 @@ Temporally and spatially infinite?
 Result of [Dark Energy?](#dark-energy)
 
 Cell form scales, resolution increases, density changes?
-
-### Hubble's Law
-
-See [Cosmic Expansion?](#cosmic-expansion)
 
 ### Cosmic Microwave Background
 
