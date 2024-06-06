@@ -54,6 +54,10 @@ Result of [Dark Energy?](#dark-energy)
 
 Cell form scales, resolution increases, density changes?
 
+### Cosmological Redshift
+
+Light changes only by colliding with matter?
+
 ### Cosmic Microwave Background
 
 Light from black holes of a black hole?
