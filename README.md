@@ -60,7 +60,7 @@ Light changes only by colliding with matter?
 
 ### Cosmic Microwave Background
 
-Light from black holes of a black hole?
+Average smoothing of light from universe mass density changes through time?
 
 ### Gravity
 
