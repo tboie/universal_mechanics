@@ -86,6 +86,10 @@ Smallest layout possible to model the largest and most common pattern of objects
 
 See [Dark Energy?](#dark-energy)
 
+### Big Bang & Inflation
+
+Scaling imprecision of calculations likely?
+
 ### Black Holes
 
 More information towards/around a location than emitted from it?
@@ -103,10 +107,6 @@ Light pulses of galactic scale?
 Try this experiment in a perfect environment with absolute precision?
 
 What is the question?
-
-### Big Bang & Inflation
-
-Scaling imprecision of calculations likely?
 
 ### Entanglement & Bell's Theorem
 
