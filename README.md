@@ -34,13 +34,15 @@ Most common linear moving [matter](#matter) pattern?
 
 ### Dark Matter
 
-[Locality Diagrams?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
+True for all matter when a z-axis exists?
 
 ### Dark Energy
 
 See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
 
 ### Scaling Cell and Boundary (Big Bang alternative)
+
+Rename?
 
 See [Dark Energy?](#dark-energy)
 
@@ -101,6 +103,10 @@ Light pulses of galactic scale?
 Try this experiment in a perfect environment with absolute precision?
 
 What is the question?
+
+### Big Bang & Inflation
+
+Scaling imprecision of calculations likely?
 
 ### Entanglement & Bell's Theorem
 
