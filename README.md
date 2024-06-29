@@ -22,7 +22,7 @@ Locations with [Information?](#information)
 
 ### Scaling Cell and Boundary (Big Bang alternative)
 
-See [Dark Energy?](#dark-energy)
+See [Dark Energy?](#rotating-boundary-dark-energy)
 
 ### Rotating Boundary (dark energy?)
 
@@ -34,7 +34,7 @@ See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_ph
 
 System property of [matter?](Matter?)
 
-System updates every rotation of [boundary?](#dark-energy)
+System updates every rotation of [boundary?](#rotating-boundary-dark-energy)
 
 ### Light Particle
 
@@ -46,7 +46,7 @@ Temporally and spatially infinite?
 
 ### Cosmic Expansion
 
-Result of [Dark Energy?](#dark-energy)
+Result of [Dark Energy?](#rotating-boundary-dark-energy)
 
 Cell form scales, resolution increases, density changes?
 
@@ -78,7 +78,7 @@ Smallest layout possible to model the largest and most common pattern of objects
 
 ### Absolute Beginning
 
-See [Dark Energy?](#dark-energy)
+See [Dark Energy?](#rotating-boundary-dark-energy)
 
 ### Big Bang & Inflation
 
