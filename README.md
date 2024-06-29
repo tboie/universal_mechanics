@@ -20,6 +20,16 @@ Locations with [Information?](#information)
 
 [Matter?](#matter)
 
+### Scaling Cell and Boundary (Big Bang alternative)
+
+See [Dark Energy?](#dark-energy)
+
+### Rotating Boundary (dark energy?)
+
+Rename?
+
+See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
+
 ### Time
 
 System property of [matter?](Matter?)
@@ -33,16 +43,6 @@ Most common linear moving [matter](#matter) pattern?
 ### Dark Matter
 
 True for all matter when a z-axis exists?
-
-### Dark Energy
-
-See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
-
-### Scaling Cell and Boundary (Big Bang alternative)
-
-Rename?
-
-See [Dark Energy?](#dark-energy)
 
 ### Cosmological Model
 
