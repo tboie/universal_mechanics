@@ -40,10 +40,6 @@ System updates every rotation of [boundary?](#dark-energy)
 
 Most common linear moving [matter](#matter) pattern?
 
-### Dark Matter
-
-True for all matter when a z-axis exists?
-
 ### Cosmological Model
 
 Temporally and spatially infinite?
@@ -91,6 +87,10 @@ Scaling imprecision of calculations likely?
 ### Black Holes
 
 More information towards/around a location than emitted from it?
+
+### Dark Matter
+
+True for all matter when a z-axis exists?
 
 ### Photons and Neutrinos
 
