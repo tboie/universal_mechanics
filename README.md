@@ -22,11 +22,9 @@ Locations with [Information?](#information)
 
 ### Time
 
-System property?
+System property of [matter?](Matter?)
 
-[Matter](Matter?) Property?
-
-45 degree rotation?
+System updates every rotation of [boundary?](#dark-energy)
 
 ### Light Particle
 
