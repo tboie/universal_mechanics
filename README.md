@@ -61,7 +61,7 @@ Average smoothing of light from universe mass density changes through time?
 ### Gravity
 
 Systematic Perspective:
-Pattern of functionality at scale/time range from geometric form?
+Pattern of functionality at scale/time range(s) from changing geometric form of cell?
 
 Modular Perspective:
 Interaction of moving particles from groups of mass?
