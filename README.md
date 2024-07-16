@@ -60,6 +60,10 @@ Average smoothing of light from universe mass density changes through time?
 
 ### Gravity
 
+Systematic Perspective:
+Pattern of functionality at scale/time range from geometric form?
+
+Modular Perspective:
 Interaction of moving particles from groups of mass?
 
 Thought experiment: If the sun or planets didn't emit anything, would they still revolve?
