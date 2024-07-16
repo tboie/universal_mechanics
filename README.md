@@ -60,6 +60,8 @@ Light changes with time(new layers)?
 
 Average smoothing of light from universe mass density changes through time?
 
+Different locations of universe have different measurements?
+
 ### Gravity
 
 Systematic Perspective:
