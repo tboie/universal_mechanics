@@ -34,7 +34,7 @@ See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_ph
 
 System property of [matter?](Matter?)
 
-System updates every rotation of [boundary?](#rotating-boundary-dark-energy)
+System updates every rotation or 2 (axis increment) of [boundary?](#rotating-boundary-dark-energy)
 
 ### Light Particle
 
