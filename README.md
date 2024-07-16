@@ -54,6 +54,8 @@ Cell form scales, resolution increases, density changes?
 
 Light changes only by colliding with matter?
 
+Light changes with time(new layers)?
+
 ### Cosmic Microwave Background
 
 Average smoothing of light from universe mass density changes through time?
