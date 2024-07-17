@@ -54,7 +54,7 @@ Cell form scales, resolution increases, density changes?
 
 Light changes only by colliding with matter?
 
-Light changes with time(new layers)?
+Light changes with time(layers evolving/new layers)?
 
 ### Cosmic Microwave Background
 
