@@ -54,7 +54,7 @@ Cell form scales, resolution increases, density changes?
 
 Light changes only by colliding with matter?
 
-Light changes with time from layers evolving/new layers added (see [Dark Energy?](#rotating-boundary-dark-energy))?
+Light changes with time from layers evolving/new layers added (see [Dark Energy](#rotating-boundary-dark-energy))?
 
 ### Cosmic Microwave Background
 
