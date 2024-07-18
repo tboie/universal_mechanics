@@ -46,7 +46,7 @@ Temporally and spatially infinite?
 
 ### Cosmic Expansion
 
-Result of [Dark Energy?](#rotating-boundary-dark-energy)
+Acceleration/deceleration caused by [Dark Energy?](#rotating-boundary-dark-energy)
 
 Cell form scales, resolution increases, density changes?
 
