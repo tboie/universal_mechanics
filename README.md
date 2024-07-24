@@ -80,7 +80,9 @@ Smallest layout possible to model the largest and most common pattern of objects
 
 3x3?
 
-### 3 Dimensional Experience
+### Shape
+
+Cell?
 
 [Geometry of Locality Diagram layers?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
