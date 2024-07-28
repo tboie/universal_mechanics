@@ -78,7 +78,7 @@ Does empty space know how to curve?
 
 Opposite of official concept of gravity?
 
-Dispersal of information over time?
+How [cell information?](#matter) disperses over time?
 
 ### Smallest Resolution Evidence
 
