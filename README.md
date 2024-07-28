@@ -74,6 +74,12 @@ Thought experiment: If the sun or planets didn't emit anything, would they still
 
 Does empty space know how to curve?
 
+### Quantum Gravity
+
+Opposite of gravity?
+
+Dispersal of information over time?
+
 ### Smallest Resolution Evidence
 
 Smallest layout possible to model the largest and most common pattern of objects?
