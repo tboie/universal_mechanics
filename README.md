@@ -76,7 +76,7 @@ Does empty space know how to curve?
 
 ### Quantum Gravity
 
-Opposite of gravity?
+Opposite of official concept of gravity?
 
 Dispersal of information over time?
 
