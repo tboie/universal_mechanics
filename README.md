@@ -145,3 +145,7 @@ Arrangement of light/information?
 ### Aliens
 
 Cataclysmic events more likely?
+
+### Human Location
+
+Middle?
