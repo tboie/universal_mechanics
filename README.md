@@ -108,6 +108,15 @@ More information towards/around a location than emitted from it?
 
 True for all matter when a z-axis exists?
 
+### Standard Model
+
+Particle collisions do not contain information needed about self structure?
+
+Results of scaling and rotating an object might result in self structure information?
+
+[See Nothing to Something Sequence?](#rotating-boundary-dark-energy](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#nothing-to-something-sequence))
+[See Tiling?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#tiles)
+
 ### Photons and Neutrinos
 
 Arrangements of [Light Particles?](#light-particle)
@@ -149,12 +158,3 @@ Cataclysmic events more likely?
 ### Human Location
 
 Middle?
-
-### Standard Model
-
-Particle collisions do not contain information needed about self structure?
-
-Results of scaling and rotating an object might result in self structure information?
-
-[See Nothing to Something Sequence?](#rotating-boundary-dark-energy](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#nothing-to-something-sequence))
-[See Tiling?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#tiles)
