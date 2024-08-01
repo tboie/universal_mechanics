@@ -110,9 +110,7 @@ True for all matter when a z-axis exists?
 
 ### Standard Model
 
-Particle collisions need to be specifically configured to result in self structure information?
-
-Results of scaling and rotating an object might result in self structure information?
+Need more information?
 
 [See Nothing to Something Sequence?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#nothing-to-something-sequence)
 
