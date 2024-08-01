@@ -110,7 +110,7 @@ True for all matter when a z-axis exists?
 
 ### Standard Model
 
-Particle collisions do not contain information needed about self structure?
+Particle collisions need to be specifically configured to result in self structure information?
 
 Results of scaling and rotating an object might result in self structure information?
 
