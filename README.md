@@ -156,4 +156,8 @@ Cataclysmic events more likely?
 
 ### Human Location
 
-Middle?
+Location with most tubes?
+
+### Tubes
+
+Form scales from [Dark Energy?](#rotating-boundary-dark-energy)
