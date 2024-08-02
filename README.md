@@ -148,7 +148,7 @@ Use virtual experiments?
 
 ### Consciousness
 
-Arrangement of light/information?
+Arrangement of information?
 
 ### Aliens
 
