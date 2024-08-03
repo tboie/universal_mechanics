@@ -161,3 +161,7 @@ Location with most tubes?
 ### Tubes
 
 Form scales from [Dark Energy?](#rotating-boundary-dark-energy)
+
+### Cellular Automata
+
+Reasoning/proof this [model](#rotating-boundary-dark-energy) is impossible as the basis of reality?
