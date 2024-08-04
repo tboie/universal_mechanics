@@ -20,11 +20,9 @@ Locations with [Information?](#information)
 
 [Matter?](#matter)
 
-### Scaling Cell and Boundary (Big Bang alternative)
+### SCAB
 
-See [Dark Energy?](#rotating-boundary-dark-energy)
-
-### Rotating Boundary (dark energy?)
+Scaling Cell And Boundary (Big Bang/Dark Energy)
 
 Rename?
 
@@ -34,7 +32,7 @@ See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_ph
 
 System property of [matter?](Matter?)
 
-System updates every rotation or 2 (axis increment) of [boundary?](#rotating-boundary-dark-energy)
+System updates every rotation or 2 (axis increment) of [SCAB?](#scab)
 
 ### Light Particle
 
@@ -46,7 +44,7 @@ Temporally and spatially infinite?
 
 ### Cosmic Expansion
 
-Acceleration/deceleration caused by [Dark Energy?](#rotating-boundary-dark-energy)
+Acceleration/deceleration caused by [SCAB?](#scab)
 
 Cell form scales, resolution increases, density changes?
 
@@ -54,7 +52,7 @@ Cell form scales, resolution increases, density changes?
 
 Light changes only by colliding with matter?
 
-Light changes with time from layers evolving/new layers added (see [Dark Energy](#rotating-boundary-dark-energy))?
+Light changes with time from layers evolving/new layers added (see [SCAB](#scab))?
 
 ### Cosmic Microwave Background
 
@@ -94,7 +92,7 @@ Cell?
 
 ### Absolute Beginning
 
-See [Dark Energy?](#rotating-boundary-dark-energy)
+See [SCAB?](#scab)
 
 ### Big Bang & Inflation
 
@@ -162,8 +160,8 @@ Middle Corner?
 
 ### Tubes
 
-Form scales from [Dark Energy?](#rotating-boundary-dark-energy)
+Form scales from [SCAB?](#scab)
 
 ### Cellular Automata
 
-Reasoning/proof this [model](#rotating-boundary-dark-energy) is impossible as the basis of reality?
+Reasoning/proof this [theory/model](#scab) is impossible as the basis of reality?
