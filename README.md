@@ -158,7 +158,7 @@ Cataclysmic events more likely?
 
 ### Human Location
 
-Location with most tubes?
+Middle Corner?
 
 ### Tubes
 
