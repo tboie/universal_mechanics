@@ -106,7 +106,7 @@ More information towards/around a location than emitted from it?
 
 ### Dark Matter
 
-True for all matter when a z-axis exists?
+True for all matter when layering exists?
 
 ### Standard Model
 
@@ -119,6 +119,8 @@ Is particle collision data sufficient?
 ### Photons and Neutrinos
 
 Arrangements of [Light Particles?](#light-particle)
+
+See [Dark Matter?](#dark-matter)
 
 ### Gravitational Waves
 
