@@ -146,11 +146,11 @@ Structural interference from matter?
 
 Use virtual experiments?
 
-### Consciousness
+### Consciousness/Free Will
 
 Arrangement of information?
 
-If there is a base sequence and it can be reproduced in parallel, information is not restricted?
+If there is a base system and sequence that can be reproduced simultaneously, information is complete?
 
 ### Aliens
 
