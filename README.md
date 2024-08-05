@@ -150,6 +150,8 @@ Use virtual experiments?
 
 Arrangement of information?
 
+If there is a base sequence and it can be modified/started in parallel, information is not restricted?
+
 ### Aliens
 
 Cataclysmic events more likely?
