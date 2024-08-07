@@ -62,21 +62,7 @@ Different locations of universe have different measurements?
 
 ### Gravity
 
-Systematic Perspective:
-Pattern of functionality at scale/time range(s) from changing geometric form of cell?
-
-Modular Perspective:
-Interaction of moving particles from groups of mass?
-
-Thought experiment: If the sun or planets didn't emit anything, would they still revolve?
-
-Does empty space know how to curve?
-
-### Quantum/Cosmological Gravity
-
-Opposite of official concept of gravity?
-
-How [cell information?](#matter) disperses over time?
+How information combines as a cell expands?
 
 ### Smallest Resolution Evidence
 
