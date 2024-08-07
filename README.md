@@ -152,6 +152,8 @@ Arrangement of information?
 
 If there is a base system and sequence that can be reproduced simultaneously, information is complete?
 
+Possible locations [Scaling Cell And Boundary](#scab) can be applied?
+
 ### Aliens
 
 Cataclysmic events more likely?
