@@ -64,18 +64,6 @@ Different locations of universe have different measurements?
 
 How information combines as a cell expands?
 
-### Smallest Resolution Evidence
-
-Smallest layout possible to model the largest and most common pattern of objects?
-
-3x3?
-
-### Shape
-
-Cell?
-
-[Geometry of Locality Diagram layers?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
-
 ### Absolute Beginning
 
 See [SCAB?](#scab)
@@ -83,6 +71,12 @@ See [SCAB?](#scab)
 ### Big Bang & Inflation
 
 Scaling imprecision of calculations likely?
+
+### Shape
+
+Cell?
+
+[Geometry of Locality Diagram layers?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
 ### Black Holes
 
@@ -140,6 +134,10 @@ If there is a base system and sequence that can be reproduced simultaneously, in
 
 Possible locations [Scaling Cell And Boundary](#scab) can be applied?
 
+### Tubes
+
+Form scales from [SCAB?](#scab)
+
 ### Aliens
 
 Cataclysmic events more likely?
@@ -148,10 +146,12 @@ Cataclysmic events more likely?
 
 Middle Corner?
 
-### Tubes
-
-Form scales from [SCAB?](#scab)
-
 ### Cellular Automata
 
 Reasoning/proof this [theory/model](#scab) is impossible as the basis of reality?
+
+### Smallest Resolution Evidence
+
+Smallest layout possible to model the largest and most common pattern of objects?
+
+3x3?
