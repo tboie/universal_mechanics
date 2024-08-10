@@ -132,7 +132,7 @@ Arrangement of information?
 
 If there is a base system and sequence that can be reproduced simultaneously, information is complete?
 
-Possible locations [Scaling Cell And Boundary](#scab) can be applied?
+Possible locations [Nothing to Something Mechanisms](https://github.com/tboie/universal_phreak_generator/blob/main/README.md#nothing-to-something-sequence) can be applied?
 
 ### Tubes
 
