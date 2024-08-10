@@ -22,17 +22,17 @@ Locations with [Information?](#information)
 
 ### SCAB
 
-Scaling Cell And Boundary (Big Bang/Dark Energy)
+Scaling Cell And Boundary (Big Bang/Dark Energy)?
 
 Rename?
 
-See [Newer Notes in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#newer-notes)
+See [Mechanism 2 in Nothing to Something?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#mechanism-2)
 
 ### Time
 
 System property of [matter?](Matter?)
 
-System updates every rotation or 2 (axis increment) of [SCAB?](#scab)
+System updates every rotation or 2 (axis increment) of [SCAB?](#scab)?
 
 ### Light Particle
 
