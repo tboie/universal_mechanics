@@ -148,6 +148,8 @@ Cataclysmic events more likely?
 
 Middle Corner?
 
+Acceleration phase?
+
 ### Cellular Automata
 
 Reasoning/proof this [theory/model](#scab) is impossible as the basis of reality?
