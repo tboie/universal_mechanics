@@ -64,7 +64,7 @@ Different locations of universe have different measurements?
 
 How information combines as a cell expands?
 
-Combination of system ruleset and [SCAB?](#scab)?
+Combination of system ruleset and [SCAB?](#scab)
 
 ### Absolute Beginning
 
