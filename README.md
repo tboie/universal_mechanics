@@ -30,9 +30,7 @@ See [Mechanism 2 in Nothing to Something?](https://github.com/tboie/universal_ph
 
 ### Time
 
-System property of [matter?](Matter?)
-
-System updates every rotation or 2 (axis increment) of [SCAB?](#scab)?
+Rotation of [SCAB](#scab)?
 
 ### Light Particle
 
