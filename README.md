@@ -50,7 +50,7 @@ Cell form scales, resolution increases, density changes?
 
 Light particles change only by colliding with matter?
 
-Light formations change with time from changing layers? (see [SCAB](#scab))?
+Light formations change with time from changing layers? (see [SCAB](#scab))
 
 ### Cosmic Microwave Background
 
