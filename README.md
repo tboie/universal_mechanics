@@ -30,7 +30,7 @@ See [Mechanism 2 in Nothing to Something?](https://github.com/tboie/universal_ph
 
 ### Time
 
-Rotation of [SCAB](#scab)?
+Rotation of [SCAB?](#scab)
 
 ### Light Particle
 
@@ -48,9 +48,9 @@ Cell form scales, resolution increases, density changes?
 
 ### Cosmological Redshift
 
-Light changes only by colliding with matter?
+Light particles change only by colliding with matter?
 
-Light changes with time from layers evolving/new layers added (see [SCAB](#scab))?
+Light formations change with time from changing layers? (see [SCAB](#scab))?
 
 ### Cosmic Microwave Background
 
