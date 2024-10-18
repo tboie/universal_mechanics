@@ -110,21 +110,15 @@ Try this experiment in a perfect environment with absolute precision?
 
 What is the question?
 
-### Entanglement & Bell's Theorem
+### Entanglement, Bell's Theorem, Schrodinger's Cat, Probabilities
 
-Experimental inadequacy?
+Experimental, philosophical, and theoretical inadequacy?
 
-### Probabilities
-
-Unknown knowledge?
+Only base level functionality can be modelled independently of [SCAB?](#scab)
 
 ### Time Dilation
 
 Structural interference from matter?
-
-### Experimental Problems of Reality
-
-Use virtual experiments?
 
 ### Consciousness/Free Will
 
