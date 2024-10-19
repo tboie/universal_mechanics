@@ -78,9 +78,9 @@ Cell?
 
 [Geometry of Locality Diagram layers?](https://github.com/tboie/universal_phreak_generator?tab=readme-ov-file#system-mechanics-visualization)
 
-### Black Holes
+### Black Hole Singularity
 
-More information towards/around/at a location than emitted from it?
+Center of [SCAB?](#scab)
 
 ### Dark Matter
 
