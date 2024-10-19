@@ -70,7 +70,7 @@ See [SCAB?](#scab)
 
 ### Big Bang & Inflation
 
-Scaling imprecision of calculations likely?
+Scaling imprecision of current calculations likely?
 
 ### Shape
 
@@ -80,11 +80,11 @@ Cell?
 
 ### Black Holes
 
-More information towards/around a location than emitted from it?
+More information towards/around/at a location than emitted from it?
 
 ### Dark Matter
 
-True for all matter when layering exists?
+True for all matter if layering exists?
 
 ### Standard Model
 
