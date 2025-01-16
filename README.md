@@ -155,3 +155,7 @@ Smallest layout possible to model the largest and most common pattern of objects
 ### End of Expansion
 
 When configuration matches inactive state?
+
+### SCAB Life
+
+When symmetry ends?
