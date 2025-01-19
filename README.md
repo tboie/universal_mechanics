@@ -158,4 +158,4 @@ When configuration matches inactive state?
 
 ### SCAB Life
 
-When symmetry ends?
+When locational symmetry ends?
