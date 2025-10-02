@@ -144,7 +144,7 @@ Acceleration phase?
 
 ### Cellular Automata
 
-Reasoning/proof this [theory/model](#scab) is impossible as the basis of reality?
+Functionality of grid created by [https://github.com/tboie/universal_simplified_process](https://github.com/tboie/universal_simplified_process)?
 
 ### Smallest Resolution Evidence
 
